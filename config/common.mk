@@ -35,7 +35,8 @@ PRODUCT_PACKAGES += \
     LiveWallpapers \
     LiveWallpapersPicker \
     VisualizationWallpapers \
-    PhaseBeam
+    PhaseBeam \
+    ClassicnerdWallpapers
 
 # Utilize init.d scripts
 PRODUCT_COPY_FILES += \
