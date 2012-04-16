@@ -1,6 +1,7 @@
+add_lunch_combo classic_epic4gtouch-eng-not-ready-yet
 add_lunch_combo classic_otter-eng
 add_lunch_combo classic_shooter-eng
-add_lunch_combo classic_skyrocket-eng-not ready yet
+add_lunch_combo classic_skyrocket-eng-not-ready-yet
 add_lunch_combo classic_supersonic-eng
 add_lunch_combo classic_tenderloin-eng
 
