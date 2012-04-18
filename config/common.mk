@@ -36,7 +36,9 @@ PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     VisualizationWallpapers \
     PhaseBeam \
-    ClassicnerdWallpapers
+    ClassicnerdWallpapers \
+    NerdsLive \
+    NerdField
 
 # Utilize init.d scripts
 PRODUCT_COPY_FILES += \
