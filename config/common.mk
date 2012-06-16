@@ -68,6 +68,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/cn/overlay/dictionaries
 
+include vendor/cn/config/themes.mk
+
 # Disable strict mode
 ADDITIONAL_DEFAULT_PROPERTIES += \
     persist.sys.strictmode.disable=true
